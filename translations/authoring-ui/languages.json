@@ -1,0 +1,9 @@
+[
+    { "languageCode": "en", "languageFlag": "gb" },
+    { "languageCode": "de", "languageFlag": "de" },
+    { "languageCode": "dk", "languageFlag": "dk" },
+    { "languageCode": "fr", "languageFlag": "fr" },
+    { "languageCode": "it", "languageFlag": "it" },
+    { "languageCode": "nl", "languageFlag": "nl" },
+    { "languageCode": "ko", "languageFlag": "kr" }
+]

@@ -1,0 +1,46 @@
+{
+    "app": {
+        "title": "Authoring Platform",
+        "subtitle": "Base app consuming the shared-ui library"
+    },
+    "cards": {
+        "welcome": "Welcome"
+    },
+    "messages": {
+        "intro": "This application is a fresh base for the angular-authoring-ui project.",
+        "sharedUiNote": "It uses the si-card component imported from the shared-ui library as an example. Drop your authoring features into this shell to get started."
+    },
+    "buttons": {
+        "showToast": "Show ngx-toastr toast"
+    },
+    "toast": {
+        "title": "Hello",
+        "body": "ngx-toastr is wired up in this app."
+    },
+    "navbar": {
+        "languages": {
+            "en": "English",
+            "de": "Deutsch",
+            "dk": "Dansk",
+            "fr": "Français",
+            "it": "Italiano",
+            "nl": "Nederlands",
+            "ko": "한국어"
+        },
+        "menu": {
+            "home": "Home",
+            "personalInfo": "Personal Information",
+            "security": "Security",
+            "roles": "Roles",
+            "logout": "Log out"
+        },
+        "external": {
+            "statusPage": "Status page",
+            "snomedIntl": "SNOMED International",
+            "privacy": "Privacy policy"
+        },
+        "roles": {
+            "title": "Roles"
+        }
+    }
+}
