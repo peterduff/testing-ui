@@ -235,7 +235,7 @@
             "link": "https://dev-snowstorm.ihtsdotools.org/admin/",
             "description": "Admin is a tool for managing SNOMED CT authoring platform administration codesystems/projects/tasks.",
             "clientName": "Admin",
-            "colour": "sky-500",
+            "colour": "red-500",
             "group": 5
         },
         {
@@ -253,7 +253,7 @@
             "link": "https://dev-release.ihtsdotools.org/",
             "description": "Release management tool for coordinating SNOMED CT releases.",
             "clientName": "Release",
-            "colour": "rose-500",
+            "colour": "red-500",
             "group": 5
         },
         {
@@ -262,7 +262,7 @@
             "link": "https://dev-snowstorm.ihtsdotools.org/release-notes-management/",
             "description": "RNMS (Release Notes Management System) is a tool for managing SNOMED CT release notes.",
             "clientName": "Snowstorm",
-            "colour": "rose-500",
+            "colour": "pink-500",
             "group": 5
         }
     ]
